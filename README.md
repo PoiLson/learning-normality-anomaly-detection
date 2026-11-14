@@ -1,4 +1,4 @@
-# Learning-Normality-Unsupervised-Visual-Anomaly-Detection
+# Learning Normality: Unsupervised Visual Anomaly Detection
 
 ## **Authors**  
 
