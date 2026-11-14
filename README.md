@@ -38,7 +38,7 @@ We plan to use the [MVTec Anomaly Detection (MVTec AD) dataset](https://www.mvte
 
 The dataset contains industrial object and texture images, including defect-free training examples, normal and defective test examples, and pixel-level annotations for defective regions.
 
-## First Thought Methodology
+## First Approach on Methodology
 
 1. **Reconstruction-Based Anomaly Detection**
 
