@@ -42,16 +42,16 @@ The dataset contains industrial object and texture images, including defect-free
 
 1. **Reconstruction-Based Anomaly Detection**
 
-We will at first implement a Convolutional Autoencoder trained exclusively on defect-free images.
+   We will at first implement a Convolutional Autoencoder trained exclusively on defect-free images.
 
-The model will learn to reconstruct normal products. At inference time, differences between an input image
-and its reconstruction will be used to estimate potential anomalies.
+   The model will learn to reconstruct normal products. At inference time, differences between an input image
+   and its reconstruction will be used to estimate potential anomalies.
 
 2. **Feature-Based Anomaly Detection**
 
-We will then investigate anomaly detection using feature representations extracted from a pretrained CNN.
-By comparing image features with representations of normal training examples, we aim to identify unusual regions
-that differ from the learned normal patterns.
+   We will then investigate anomaly detection using feature representations extracted from a pretrained CNN.
+   By comparing image features with representations of normal training examples, we aim to identify unusual regions
+   that differ from the learned normal patterns.
 
 ## Experimental Evaluation
 
